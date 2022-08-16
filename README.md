@@ -10,11 +10,6 @@
 
 👨‍💻 Currently learning some basics
 
-
-## 🏅 Achievements 
-
-🥁 ... Nothing
-
 ## 🛠️ Skills
 
 ### Coding languages
@@ -27,7 +22,7 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
-## Invested Crypto
+## Crypto Investments:
 ![Why IOTA is the true King](https://user-images.githubusercontent.com/16886710/184977599-176db7a7-4dd7-4270-a181-ab33066ecacd.jpg)
 
 ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
