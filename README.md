@@ -1,6 +1,7 @@
-# Hi there! 
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+![dw](https://user-images.githubusercontent.com/16886710/184981192-4f2e81e3-9635-46b4-b41d-d6b293e655a4.PNG)
+
 
 ## 🚀 About Me
 
@@ -31,9 +32,8 @@
 ![Iota](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)
 
 
-![<LinkedIn>](https://img.shields.io/badge/<Badge Text>LinkedIn<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tahir_akkaya98)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/tahir-akkaya-069723112/)
 
