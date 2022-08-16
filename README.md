@@ -1,6 +1,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-![dw](https://user-images.githubusercontent.com/16886710/184981192-4f2e81e3-9635-46b4-b41d-d6b293e655a4.PNG)
+![5kdcsvpll5yg82m7pu9c](https://user-images.githubusercontent.com/16886710/184981356-20d95eef-f5c6-481f-a111-39f6884360c0.gif)
+
 
 
 ## 🚀 About Me
